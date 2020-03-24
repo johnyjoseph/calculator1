@@ -1,0 +1,29 @@
+.mymargin{
+   /* margin-left: 50px; */
+    padding: 3px;
+}
+.margin1{
+    padding: 10px;
+    margin-left: 135px;;
+
+}
+.margin2{
+    padding: 2px 10px 10px 2px;
+   
+
+}
+.h{
+    text-align: center;
+    padding: 10px;
+}
+.mr{
+    margin-top: 80px;
+    margin-left: 500px;
+}
+.marginn3{
+    margin-left: 100px;
+    padding: 10px;
+}
+.marginn4{
+    margin-left: 400px;
+}
